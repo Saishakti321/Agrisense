@@ -1,0 +1,11 @@
+{
+  "title": "AgriSense Smart Farming Advisor",
+  "mode_manual": "Manual Mode",
+  "mode_auto": "Auto Mode",
+  "temperature": "Temperature (°C)",
+  "humidity": "Humidity (%)",
+  "moisture": "Moisture (%)",
+  "soil_type": "Soil Type",
+  "crop": "Crop",
+  "submit": "Generate Plan"
+}
